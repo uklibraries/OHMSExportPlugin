@@ -1,2 +1,2 @@
 # OHMSExportPlugin
-Omeka plugin to create new output for OHMS XML cache file.
+Omeka plugin to create new output from SPOKEdb database for OHMS XML cache file.
